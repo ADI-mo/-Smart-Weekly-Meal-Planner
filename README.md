@@ -132,7 +132,8 @@ pip install -r requirements.txt
 
 Smart Weekly Meal Planner demonstrates systematic thinking, modular design, and practical automation. It bridges the gap between digital recipe management and real-world kitchen logistics.
 
-*Developed as part of the [COURSE NAME] course at [UNIVERSITY NAME].*
+*Developed as part of the Python Programming Course (2025).course at Weizmann Institute of Science
+.*
 
 
 
