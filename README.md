@@ -134,15 +134,8 @@ Smart Weekly Meal Planner demonstrates systematic thinking, modular design, and 
 
 *Developed as part of the [COURSE NAME] course at [UNIVERSITY NAME].*
 
-```
-
----
-
-### מה השלב הבא?
-כדי שהפרויקט יהיה מוכן ב-100%, כדאי לייצר את הקבצים הבאים בתיקיית ה-`data` שלך:
-1.  **`recipes.json`**: המאגר ההתחלתי.
-2.  **`inventory.json`**: דוגמה למזווה (אפשר להשאיר ריק `{}` כברירת מחדל).
-3.  **`prices.csv`**: קובץ מחירים ראשוני.
 
 
-```
+
+
+
