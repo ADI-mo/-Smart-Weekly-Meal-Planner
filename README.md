@@ -1,8 +1,4 @@
-.
 
----
-
-```markdown
 # Smart Weekly Meal Planner
 
 **A Smart System for Weekly Meal Planning, Pantry Management, and Cost Optimization**
